@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://www.linkedin.com/in/sahil-nazir-0a88a8199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Sahil Nazir](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://www.linkedin.com/in/sahil-nazir-0a88a8199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 <h1 align="center">Hi 👋, I'm SAHIL NAZIR</h1>
 <h3 align="center">"Civil Engineer by profession, Data Science Enthusiast by passion"</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
